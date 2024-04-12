@@ -28,7 +28,7 @@
 
 ## Installation Instructions:
 - Visit the deployed [link](https://spilled-cmsy1ss06-corys-projects-8e9f64e4.vercel.app/)
-- OR run the following on command line to clone the repo and run the app locally:
+- OR run the following on the command line to clone the repo and run the app locally:
     ```
     git clone git@github.com:corysanders3/spilled.git
     cd spilled
@@ -37,8 +37,8 @@
     ```
 
 ### Run Tests
-<!--- Run the following on command line to install Cypress: `npm i -D cypress`
-- Add script to `package.json` file
+<!--- Run the following on the command line to install Cypress: `npm i -D cypress`
+- Add script to the `package.json` file
     ``` json
     {
       "scripts": {
@@ -48,17 +48,17 @@
     ```
     -->
 - Ensure you're running the app locally (see Installation Instructions above)
-- Run the following on command line to open Cypress: `npm run cypress`
-- Click `E2E Testing`, then `Start E2E Testing` in desired browser
+- Run the following on the command line to open Cypress: `npm run cypress`
+- Click `E2E Testing`, then `Start E2E Testing` in the desired browser
 - Select `dashboard_spec` to run all tests
 
 ## Context:
-<!-- wins, challenges, time spent, goals, approaches etc -->
-- ~30 hours to complete test suite of and functionality
+<!-- wins, challenges, time spent, goals, approaches, etc -->
+- ~30 hours to complete the test suite and functionality
 - Goals
   ```
-  - Learn and implement Typescript in a one week sprint
-  - Develop robust e-2-e test suite with intercepted network requests
+  - Learn and implement Typescript in a one-week sprint
+  - Develop a robust e-2-e test suite with intercepted network requests
   - Consistent and modular file structure
   ```
 - Wins
